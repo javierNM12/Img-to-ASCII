@@ -7,6 +7,8 @@ Este proyecto es un WIP (Work In Progress) y actualmente solamente admite una im
 
 He creado este pequeño proyecto con la intención de aprender un poco sobre Python y recrear un reto que he visto por internet
 
+Este proyecto hace uso de PIL
+
 ### Recursos utilizados:
 - https://thecodingtrain.com/CodingChallenges/166-ascii-image.html
 - https://play.ertdfgcvb.xyz/
